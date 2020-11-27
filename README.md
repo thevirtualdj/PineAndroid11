@@ -1,2 +1,2 @@
-# android-8.0
-Main repository with Android 8.0 releases
+# android-11.0
+Main repository with Android 11.0 releases
